@@ -107,7 +107,7 @@ ga_ntree_a
 ga_mtry_a
 ga_nrep_a
 
-## Create the third from the best feature engineered model, selected from a genetic algorithm, for the third
+## Select the third from the best feature-engineered model of a genetic algorithm.
 
 ## Feature selection: check for unimportant variables
 
@@ -117,7 +117,7 @@ plot(
   rp.importance(LFS2015.rfP, scale = FALSE)
   )
 
-## Selecting the best mode from the genetic algorithm
+## Selecting the best feature-engineered model from the genetic algorithm
 
 fit_rf=function(x)
 {
