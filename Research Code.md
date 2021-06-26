@@ -1,8 +1,3 @@
----
-title: "📄 A Look Inside Philippine Unemployment: the Predictive Factors of the Number of Weeks Looking for Work"
-output: html_notebook
----
-
 # 📊 Data Analysis
 
 ## Initializing the Data and Libraries
